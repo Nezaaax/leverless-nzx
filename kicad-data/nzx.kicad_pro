@@ -446,7 +446,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "StickLess.kicad_pro",
+    "filename": "nzx.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -481,7 +481,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gbr/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../../../../Desktop/StickLess.step",

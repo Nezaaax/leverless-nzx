@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "8.0.4"
     },
-    "CreationDate": "2024-08-25T10:48:18+09:00"
+    "CreationDate": "2024-08-31T11:22:35+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "StickLess",
-      "GUID": "53746963-6b4c-4657-9373-2e6b69636164",
+      "Name": "nzx",
+      "GUID": "6e7a782e-6b69-4636-9164-5f7063625858",
       "Revision": "rev?"
     },
     "Size": {
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "StickLess-F_Cu.gbr",
+      "Path": "nzx-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "StickLess-B_Cu.gbr",
+      "Path": "nzx-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "StickLess-F_Paste.gbr",
+      "Path": "nzx-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "StickLess-B_Paste.gbr",
+      "Path": "nzx-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "StickLess-F_Silkscreen.gbr",
+      "Path": "nzx-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "StickLess-B_Silkscreen.gbr",
+      "Path": "nzx-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "StickLess-F_Mask.gbr",
+      "Path": "nzx-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "StickLess-B_Mask.gbr",
+      "Path": "nzx-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "StickLess-Edge_Cuts.gbr",
+      "Path": "nzx-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
