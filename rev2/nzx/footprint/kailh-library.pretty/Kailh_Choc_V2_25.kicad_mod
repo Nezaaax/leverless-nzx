@@ -1,4 +1,4 @@
-(footprint "Kailh_Choc_V2_24"
+(footprint "Kailh_Choc_V2_25"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -64,7 +64,7 @@
 	(attr smd)
 	(fp_circle
 		(center 0 0)
-		(end 12 0)
+		(end 12.5 0)
 		(stroke
 			(width 0.1)
 			(type default)
